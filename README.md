@@ -21,9 +21,9 @@ Assurez-vous de remplacer `<votre_api_key>` par votre clé API Tracker.gg et `<V
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-LeagueofLegends/issues/).
+- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-LeagueOfLegends/issues/3).
 
-- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-LeagueofLegends/issues/).
+- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-LeagueOfLegends/issues/4).
 
 - Suivez [@NuggaN85](https://twitter.com/NuggaN85) sur Twitter
 
