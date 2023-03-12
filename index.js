@@ -2,7 +2,7 @@ const { Client, Intents } = require('discord.js');
 const axios = require('axios');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
-const TOKEN = 'votre-token-de-bot';
+const TOKEN = '<VOTRE_TOKEN_DISCORD>';
 const API_KEY = '<votre_api_key>';
 
 client.on('ready', () => {
