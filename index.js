@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 const TOKEN = 'votre-token-de-bot';
-const API_KEY = 'votre-clef-d-api-tracker.gg';
+const API_KEY = '<votre_api_key>';
 
 client.on('ready', () => {
   console.log(`Connecté en tant que ${client.user.tag}!`);
